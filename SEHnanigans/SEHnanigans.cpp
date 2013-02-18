@@ -509,5 +509,5 @@ int main(int argc, wchar_t* argv[])
     // node, that will generate the exception.
     IntermediaryBase<10>(registeredHandlers);
 
-	return 0;
+    return 0;
 }
